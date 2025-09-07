@@ -41,4 +41,4 @@ We are a Pro Indian Hacktivist Group, dedicated to:
 
 ### ⚠️ Disclaimer  
 We stand for **India and its national interest**.  
-We do **not support illegal cyber activities**, but when it comes to **patriotism**, we rise against all **anti-Indian forces**—whether individuals, groups, Gov or nations—that act against **India**.
+We do **not support illegal cyber activities**, but when it comes to **patriotism**, we rise against all **anti-Indian forces**whether individuals, groups, Gov or nations that act against **India**.
