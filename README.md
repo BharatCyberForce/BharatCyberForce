@@ -1,4 +1,4 @@
-# ⚡ [Group Name] – Hacktivist Collective (India)
+# ⚡ [Indian Cyber Force] – Hacktivist Collective (India)
 
 > *"Code is our weapon. Hunt Anti Indian Rats is our mission."*
 
