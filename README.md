@@ -34,7 +34,7 @@ We are a Pro Indian Hacktivist Group, dedicated to:
 
 ## 📢 Connect With Us
 - 📧 Email: BharatiyaCyberForce@protonmail.com  
-- 🐦 Twitter: [@yourhandle](https://x.com/CyberForceX)  
+- 🐦 Twitter: [@X](https://x.com/CyberForceX)  
 - 💬 Telegram: [t.me/yourgroup](https://t.me/Indian_Cyber_Force_Official)
 
 ---
