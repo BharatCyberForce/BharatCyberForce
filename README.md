@@ -34,7 +34,7 @@ We are a Pro Indian Hacktivist Group, dedicated to:
 
 ## 📢 Connect With Us
 - 🐦 Twitter: [IndianCyberForce](https://x.com/CyberForceX)  
-- 💬 Telegram: [IndianCyberForce](https://t.me/Indian_Cyber_Force_Official)
+- 💬 Telegram: [IndianCyberForce](https://t.me/IndianCyberForce_Official)
 
 ---
 
