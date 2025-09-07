@@ -9,6 +9,7 @@ We are a Pro Indian Hacktivist Group, dedicated to:
 - 🔒 **Offensive security Research**
 - 🌍 **India and its national interest**
 - ⚡ **Hacking & Awareness**
+- 🚀 **Indian Army**
 - 🛡️ **Open Source Intelligence (OSINT)**
 - 📢 **Exposing If Any Action By Anti Indian Country & Injustice**
 
