@@ -21,8 +21,8 @@ We are a Pro Indian Hacktivist Group, dedicated to:
 ---
 
 ## 📊 GitHub Insights
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=YourGroupUsername&show_icons=true&theme=dark&hide_border=true&count_private=true)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YourGroupUsername&layout=compact&theme=dark&hide_border=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=BharatCyberForce&show_icons=true&theme=dark&hide_border=true&count_private=true)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BharatCyberForce&layout=compact&theme=dark&hide_border=true)
 
 ---
 
