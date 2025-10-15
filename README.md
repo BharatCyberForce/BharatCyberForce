@@ -27,8 +27,8 @@ We are a Pro Indian Hacktivist Group, dedicated to:
 ---
 
 ## 🚀 Projects
--  **[wphunter]** – Open-source tool for penetration testing  
--  **[SpyCatX]** – Intelligence gathering toolkit  
+-  **[wphunter]** – Open source tool for penetration testing  
+-  **[scadex]** – open source ics scanner tool
 -  **[Radium]** – Hunt Websites Server (WebShell)  
 
 ---
